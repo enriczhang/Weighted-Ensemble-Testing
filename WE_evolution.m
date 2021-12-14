@@ -38,3 +38,4 @@ for t=1:deltaT
     obs_avg = obs_avg + sum(ws(sink));
     
 end
+ 
